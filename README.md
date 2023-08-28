@@ -1,5 +1,5 @@
 # Pizza Sales Report Using PowerBI and SQL
-Incorporating a dataset encompassing Pizza orders spanning from January 2015 to December 2015, our objective is to conduct an in-depth analysis of pivotal markers within the pizza sales dataset, thus unearthing invaluable perspectives into our business efficacy. Specifically, our focus revolves around deriving the subsequent metrics:
+Our goal is to undertake an in-depth study of key indicators within the pizza sales dataset using a dataset including pizza orders from January 2015 to December 2015 in order to uncover significant insights regarding company's performance. In particular, we concentrate on obtaining the following metrics:
 
 1. Aggregate Revenue
 2. Mean Order Value
